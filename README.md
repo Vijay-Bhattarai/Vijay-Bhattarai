@@ -56,7 +56,7 @@ To become a Lead AI Engineer and build AI-powered products that transform busine
 🔙 **Backend:** Node.js, Django  
 🗄 **Database:** MySQL, Firebase  
 🤖 **AI & ML:** NumPy, Pandas, Scikit-learn (Learning), TensorFlow (Learning)  
-📊 **Marketing & CRM:** HubSpot, SendGrid, ConvertKit  
+📊 **Marketing & CRM:** HubSpot, SendGrid, ConvertKit & More
 📞 **Systems Knowledge:** CRM Automation, VoIP Systems  
 ⚙️ **Tools:** Git, GitHub, Automation Workflows  
 
