@@ -68,3 +68,4 @@ To become a Lead AI Engineer and build AI-powered products that transform busine
 ### ✍️ Random Dev Quote
 
 Bridging Business & AI — building intelligent systems that don’t just work, but create measurable impact.
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
