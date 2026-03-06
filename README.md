@@ -64,6 +64,7 @@ To become a Lead AI Engineer and build AI-powered products that transform busine
 
 ---
 
-## 🌱 Philosophy
+
+### ✍️ Random Dev Quote
 
 Bridging Business & AI — building intelligent systems that don’t just work, but create measurable impact.
