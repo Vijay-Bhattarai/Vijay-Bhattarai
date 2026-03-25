@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bijay Bhattarai
 
-🚀 AI Engineer in Progress | Automation & CRM Systems Specialist  
+🚀 AI Engineer  | Automation & CRM Systems Specialist  
 📈 Digital Marketing Executive | Sales Manager & Tech Co-Founder  
 
 📫 Reach me at: **bijaybhattrarai5544@gmail.com**
