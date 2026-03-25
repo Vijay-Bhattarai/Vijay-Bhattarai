@@ -20,18 +20,7 @@ With both technical and business expertise, I build solutions that are:
 - Business-oriented  
 - Scalable and automation-driven  
 
----
 
-## 🔍 Current Focus
-
-- Advanced Python Programming  
-- Machine Learning & Deep Learning  
-- AI Automation Systems  
-- LLM & AI Agent Development  
-- AI-powered CRM & Business Tools  
-- Real-world AI Product Development  
-
----
 
 ## 🔭 What I'm Currently Working On
 
