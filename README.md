@@ -47,31 +47,16 @@ Create secure, scalable, and business-focused AI solutions.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-Languages
-
-Python • JavaScript
-
-Backend
-
-Django • FastAPI • REST APIs
-
-Frontend
-
-HTML • CSS • Bootstrap • React
-
-Database
-
-PostgreSQL • MySQL • SQLite • Firebase
-
-AI
-
-NumPy • Pandas • Scikit-learn • TensorFlow • LLMs • RAG
-
-Tools
-
-Git • GitHub • Postman • VS Code
+| Category | Technologies |
+|----------|--------------|
+| 🐍 Languages | Python • JavaScript |
+| ⚙️ Backend | Django • FastAPI • REST APIs |
+| 🎨 Frontend | HTML • CSS • Bootstrap • React.js |
+| 🗄️ Database | PostgreSQL • MySQL • SQLite • Firebase |
+| 🤖 AI/ML | NumPy • Pandas • Scikit-learn • TensorFlow • LLMs • RAG |
+| 🛠 Tools | Git • GitHub • Postman • VS Code |
 
 📂 Featured Projects
 
