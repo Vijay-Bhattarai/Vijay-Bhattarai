@@ -9,11 +9,17 @@
 ## 💡 About Me
 
 🐍 Python Backend Developer passionate about building scalable applications with Django and FastAPI.
+
 🤖 Exploring Artificial Intelligence, Machine Learning, LLMs, and backend AI integrations.
+
 🚀 Building production-ready backend systems, REST APIs, automation tools, and AI-powered applications.
+
 💼 Previously worked across frontend development, backend development, digital marketing, sales management, and as a Tech Co-Founder.
+
 📚 Continuously learning through real-world projects and modern AI technologies.
+
 🎯 Interested in solving business problems with scalable backend architecture and intelligent automation.
+
 
 
 ---
