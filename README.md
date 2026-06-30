@@ -73,6 +73,19 @@ Tools
 
 Git • GitHub • Postman • VS Code
 
+📂 Featured Projects
+
+🤖 AI Chatbot with LLM Integration
+
+📄 PDF RAG Chatbot
+
+📝 Blogging System (Django)
+
+🔐 Authentication REST API
+
+📊 CRM Backend System
+
+
 🚀 Career Goal
 
 I am passionate about becoming an expert Python Backend Developer with deep expertise in Artificial Intelligence.
