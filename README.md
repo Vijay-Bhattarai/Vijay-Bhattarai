@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bijay Bhattarai
 
-🚀 Python Developer
+🚀 Python Developer/Djnago/FASTAPI
 
 📫 Reach me at: **bijaybhattrarai5544@gmail.com**
 
@@ -8,114 +8,57 @@
 
 ## 💡 About Me
 
-I am a Python Backend Developer who enjoys building scalable backend applications, APIs, automation systems, and AI-powered solutions.
+🐍 Python Backend Developer passionate about building scalable applications with Django and FastAPI.
+🤖 Exploring Artificial Intelligence, Machine Learning, LLMs, and backend AI integrations.
+🚀 Building production-ready backend systems, REST APIs, automation tools, and AI-powered applications.
+💼 Previously worked across frontend development, backend development, digital marketing, sales management, and as a Tech Co-Founder.
+📚 Continuously learning through real-world projects and modern AI technologies.
+🎯 Interested in solving business problems with scalable backend architecture and intelligent automation.
 
-Alongside my studies, I continue to work on real-world backend projects while constantly expanding my knowledge in Artificial Intelligence, Machine Learning, and modern Python technologies.
-
-Previously, I worked in multiple technology roles, including frontend development, backend development, digital marketing, sales management, and as a Tech Co-Founder, where I gained experience in product development, client management, CRM systems, automation, business strategy, and leading technical teams.
-
-Today, my primary focus is Python backend development using Django and FastAPI, while integrating AI capabilities into business applications using modern AI frameworks and APIs.
-
-I believe great software should be:
-
-Scalable
-Secure
-Maintainable
-AI-Driven
-Business-Oriented
-
-
-🔭 What I'm Currently Working On
 
 ---
-Building complete backend projects using Django and FastAPI
-Developing REST APIs and scalable backend architectures
-Creating AI-powered chatbot applications
-Integrating Google AI APIs and other LLM providers into backend systems
-Building PDF Reader AI Chatbots with Retrieval-Augmented Generation (RAG)
-Exploring offline AI models and local LLM implementations
-Developing blogging systems and other production-ready backend applications
-Learning advanced Machine Learning and Deep Learning concepts
-Exploring AI Agents, Multi-Agent Systems, and intelligent automation
-Continuously improving my Python development skills through real-world projects 
+🔭 What I'm Currently Working On
+🔭 Currently Working On
+🚀 Backend projects with Django & FastAPI
+🔗 REST APIs & scalable backend architecture
+🤖 AI Chatbots & LLM integrations
+📄 PDF Reader Chatbots (RAG)
+🌐 Google AI & third-party API integrations
+📝 Blogging systems & full-stack backend applications
+🧠 AI Agents & intelligent automation
+📚 Machine Learning & Deep Learning
+💻 Improving Python through hands-on projects
+
 
 ---
 
 ## 🎯 Long-Term Vision
 
-My goal is to become a highly skilled Python Full-Stack AI Engineer capable of designing complete software systems—from backend architecture to AI integration.
-
-I want to help businesses of every size integrate Artificial Intelligence into their existing products and build intelligent applications using their own data through LLMs, RAG pipelines, AI Agents, and future AGI technologies.
-
-I aim to create software that not only automates business processes but also enables organizations to make smarter decisions using AI.
-
-As AI continues to evolve toward more advanced intelligence, I want to contribute by building practical, secure, and scalable AI-powered products that solve real-world problems.
+Become a skilled Python Full-Stack AI Engineer.
+Build intelligent software powered by AI and modern backend technologies.
+Help businesses integrate AI into existing products and workflows.
+Develop AI systems using LLMs, RAG, AI Agents, and future AGI technologies.
+Create secure, scalable, and business-focused AI solutions.
 
 ---
 
 ## 🛠 Tech Stack
 
-🐍 Programming Languages
-Python (Primary)
-JavaScript
+**Languages:** Python • JavaScript
 
-⚙️ Backend Development
-Django
-FastAPI
-REST APIs
-Authentication & Authorization
-API Integration
-Backend Architecture
+**Backend:** Django • FastAPI • REST APIs • Authentication • API Integration
 
-🎨 Frontend
-HTML
-CSS
-Bootstrap
-React.js (Basic)
+**Frontend:** HTML5 • CSS3 • Bootstrap • React.js (Basic)
 
-🗄️ Databases
-PostgreSQL
-MySQL
-Firebase
-SQLite
+**Databases:** PostgreSQL • MySQL • SQLite • Firebase
 
-🤖 AI & Machine Learning
-NumPy
-Pandas
-Scikit-learn (Learning)
-TensorFlow (Learning)
-Machine Learning Fundamentals
-AI API Integration
-LLM Integration
-AI Chatbots
-Retrieval-Augmented Generation (RAG)
-Prompt Engineering
-AI Automation
+**AI & ML:** NumPy • Pandas • Scikit-learn • TensorFlow • LLM Integration • RAG • Prompt Engineering • AI Chatbots
 
-📊 Data & Scientific Computing
-MATLAB
-Data Processing
-Data Analysis
+**Data Science:** MATLAB • Data Processing • Data Analysis
 
-📈 Marketing & CRM
-HubSpot
-SendGrid
-ConvertKit
-CRM Automation
-Email Automation
+**CRM & Automation:** HubSpot • SendGrid • ConvertKit • CRM Automation • Workflow Automation • VoIP Systems
 
-📞 Systems Knowledge
-CRM Systems
-VoIP Systems
-Business Process Automation
-Workflow Automation
-
-⚙️ Tools
-Git
-GitHub
-Postman
-VS Code
-Automation Workflows
+**Tools:** Git • GitHub • Postman • VS Code
 
 🚀 Career Goal
 
