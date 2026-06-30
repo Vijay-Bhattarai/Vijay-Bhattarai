@@ -4,7 +4,6 @@
 
 📫 Reach me at: **bijaybhattrarai5544@gmail.com**
 
----
 
 ## 💡 About Me
 
@@ -19,8 +18,6 @@
 💼 Experience across software development, CRM systems, and product development
 
 
-
----
 ## 🔭 Currently Working On
 
 - 🚀 Building scalable backend applications with Django & FastAPI
@@ -30,7 +27,6 @@
 - ⚡ Exploring AI automation and intelligent workflows
 - 📚 Learning advanced Machine Learning, Deep Learning, and AI Agents
 
----
 
 ## 🎯 Long-Term Vision
 
@@ -40,7 +36,6 @@ Help businesses integrate AI into existing products and workflows.
 Develop AI systems using LLMs, RAG, AI Agents, and future AGI technologies.
 Create secure, scalable, and business-focused AI solutions.
 
----
 
 ## 💻 Tech Stack
 
@@ -61,7 +56,6 @@ Create secure, scalable, and business-focused AI solutions.
 - 🔐 Authentication REST API (JWT)
 - 📊 CRM Backend System
 - ⚡ FastAPI Boilerplate
-
 
 ## 🚀 Career Goal
 
