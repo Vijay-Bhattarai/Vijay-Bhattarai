@@ -58,17 +58,14 @@ Create secure, scalable, and business-focused AI solutions.
 | 🤖 AI/ML | NumPy • Pandas • Scikit-learn • TensorFlow • LLMs • RAG |
 | 🛠 Tools | Git • GitHub • Postman • VS Code |
 
-📂 Featured Projects
+## 📂 Featured Projects
 
-🤖 AI Chatbot with LLM Integration
-
-📄 PDF RAG Chatbot
-
-📝 Blogging System (Django)
-
-🔐 Authentication REST API
-
-📊 CRM Backend System
+- 🤖 AI Chatbot Platform (LLM + Google AI)
+- 📄 PDF AI Assistant (RAG)
+- 📝 Django Blog Management System
+- 🔐 Authentication REST API (JWT)
+- 📊 CRM Backend System
+- ⚡ FastAPI Boilerplate
 
 
 🚀 Career Goal
