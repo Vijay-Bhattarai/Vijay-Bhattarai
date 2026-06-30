@@ -49,21 +49,29 @@ Create secure, scalable, and business-focused AI solutions.
 
 ## 🛠 Tech Stack
 
-**Languages:** Python • JavaScript
+Languages
 
-**Backend:** Django • FastAPI • REST APIs • Authentication • API Integration
+Python • JavaScript
 
-**Frontend:** HTML5 • CSS3 • Bootstrap • React.js (Basic)
+Backend
 
-**Databases:** PostgreSQL • MySQL • SQLite • Firebase
+Django • FastAPI • REST APIs
 
-**AI & ML:** NumPy • Pandas • Scikit-learn • TensorFlow • LLM Integration • RAG • Prompt Engineering • AI Chatbots
+Frontend
 
-**Data Science:** MATLAB • Data Processing • Data Analysis
+HTML • CSS • Bootstrap • React
 
-**CRM & Automation:** HubSpot • SendGrid • ConvertKit • CRM Automation • Workflow Automation • VoIP Systems
+Database
 
-**Tools:** Git • GitHub • Postman • VS Code
+PostgreSQL • MySQL • SQLite • Firebase
+
+AI
+
+NumPy • Pandas • Scikit-learn • TensorFlow • LLMs • RAG
+
+Tools
+
+Git • GitHub • Postman • VS Code
 
 🚀 Career Goal
 
