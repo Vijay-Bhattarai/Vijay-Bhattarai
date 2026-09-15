@@ -7,7 +7,6 @@
 
 ## 💡 About Me
 
-⚙️ Backend Engineer working with **Go (Golang)**
 I’m a Backend Engineer working with Go (Golang), building scalable, reliable, and high-performance backend systems and cloud-based applications. My work mainly involves Golang, Gin, PostgreSQL, REST APIs, Docker, and AWS, with a focus on clean architecture, system performance, security, and writing maintainable, production-ready code. 
 
 💻 My Background
