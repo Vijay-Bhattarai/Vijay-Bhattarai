@@ -44,4 +44,4 @@ I’m a Backend Engineer working with Go (Golang), building scalable, reliable, 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vijay Bhattarai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijaybhattrarai5544@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Vijay Bhattarai](https://www.linkedin.com/in/vijay-bhattarai-815a841a5/?skipRedirect=true)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijaybhattrarai5544@gmail.com) 
