@@ -5,8 +5,9 @@
 
 ## 🌐 Socials:
 
-📫 Reach me at: **bijaybhattrarai5544@gmail.com**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-bhattarai-815a841a5/)
+📫 Reach me at: **bijaybhattrarai5544@gmail.com** <br>
+
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-bhattarai-815a841a5/)
 
 
 # 💫 About Me:
