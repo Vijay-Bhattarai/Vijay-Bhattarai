@@ -30,7 +30,12 @@ I enjoy building things, solving technical problems, learning new technologies, 
 🐙 **Git** • 🧪 **Postman** • 💻 **VS Code**
 
 ### Previous Experience
+
 ⚛️ **React** • 🟨 **JavaScript** • 🟢 **Node.js** • 🐍 **Python** • 🌐 **Django**
+
+📣 **Digital Marketing** • 📧 **Email Marketing** • 🔍 **SEO** • 📊 **Google Ads** • 🤝 **CRM** • 📈 **Business Development** • 💼 **Sales** • 🚀 **Product Development**
+
+🏢 **Co-Founder** • 👥 **Client Relationships** • ⚙️ **Business Operations**
 
 
 ## ⚒️ Development Tools
