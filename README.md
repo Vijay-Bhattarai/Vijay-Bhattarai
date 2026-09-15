@@ -9,13 +9,10 @@
 
 I’m a Backend Engineer working with Go (Golang), building scalable, reliable, and high-performance backend systems and cloud-based applications. My work mainly involves Golang, Gin, PostgreSQL, REST APIs, Docker, and AWS, with a focus on clean architecture, system performance, security, and writing maintainable, production-ready code. 
 
-💻 My Background
 I have a strong background in the technology industry, with experience across software development, digital marketing, CRM, and technology-driven business operations. Over the years, I’ve worked with technologies such as React, JavaScript, Node.js, Python, and Django, and have been involved in building web applications and working on different technology projects.
 
-📈 Beyond Engineering 
 I’ve also worked as a Co-Founder, where I was involved in technology, business development, sales, client relationships, and the day-to-day operations of the business. This experience gave me a different perspective on technology not just how to build software, but also how technology can be turned into practical solutions for real businesses and users. I enjoy building things, solving technical problems, learning new technologies, and keeping up with the rapid development of AI and its impact on software engineering.
 
-🧠 What Drives Me
 I enjoy building things, solving technical problems, learning new technologies, and keeping up with the rapid development of AI and its impact on software engineering. I’m always looking for better ways to build reliable systems, improve performance, and create software that solves real-world problems.
 
 ## 🛠️ Tech Stack
