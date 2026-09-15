@@ -1,61 +1,41 @@
 # 👋 Hi, I'm Bijay Bhattarai
 
-🚀 Python Developer/Djnago/FASTAPI
+### 👨‍💻 Backend Engineer | Go (Golang) | Gin | PostgreSQL | AWS
 
 📫 Reach me at: **bijaybhattrarai5544@gmail.com**
 
 
 ## 💡 About Me
 
-🐍 Python backend developer specializing in Django and FastAPI
+⚙️ Backend Engineer working with **Go (Golang)**
+I’m a Backend Engineer working with Go (Golang), building scalable, reliable, and high-performance backend systems and cloud-based applications. My work mainly involves Golang, Gin, PostgreSQL, REST APIs, Docker, and AWS, with a focus on clean architecture, system performance, security, and writing maintainable, production-ready code. 
 
-🤖 Passionate about AI, Machine Learning, LLMs, and backend automation
+💻 My Background
+I have a strong background in the technology industry, with experience across software development, digital marketing, CRM, and technology-driven business operations. Over the years, I’ve worked with technologies such as React, JavaScript, Node.js, Python, and Django, and have been involved in building web applications and working on different technology projects.
 
-🚀 Building scalable APIs, backend systems, and AI-powered applications
+📈 Beyond Engineering 
+I’ve also worked as a Co-Founder, where I was involved in technology, business development, sales, client relationships, and the day-to-day operations of the business. This experience gave me a different perspective on technology not just how to build software, but also how technology can be turned into practical solutions for real businesses and users. I enjoy building things, solving technical problems, learning new technologies, and keeping up with the rapid development of AI and its impact on software engineering.
 
-📚 Continuously learning through real-world projects
+🧠 What Drives Me
+I enjoy building things, solving technical problems, learning new technologies, and keeping up with the rapid development of AI and its impact on software engineering. I’m always looking for better ways to build reliable systems, improve performance, and create software that solves real-world problems.
 
-💼 Experience across software development, CRM systems, and product development
+## 🛠️ Tech Stack
 
+### Backend
+🐹 **Go (Golang)** • 🌐 **Gin** • 🔗 **REST APIs**
 
-## 🔭 Currently Working On
+### Databases
+🐘 **PostgreSQL** • 🍃 **MongoDB** • 🗄️ **MySQL**
 
-- 🚀 Building scalable backend applications with Django & FastAPI
-- 🔗 Developing secure REST APIs and backend architectures
-- 🤖 Creating AI chatbots using LLMs and AI APIs
-- 📄 Building RAG-based PDF chatbot applications
-- ⚡ Exploring AI automation and intelligent workflows
-- 📚 Learning advanced Machine Learning, Deep Learning, and AI Agents
+### Cloud & DevOps
+☁️ **AWS** • 🐳 **Docker** • 🔄 **CI/CD**
 
+### Development
+🐙 **Git** • 🧪 **Postman** • 💻 **VS Code**
 
-## 🎯 Long-Term Vision
+### Previous Experience
+⚛️ **React** • 🟨 **JavaScript** • 🟢 **Node.js** • 🐍 **Python** • 🌐 **Django**
 
-Become a skilled Python Full-Stack AI Engineer.
-Build intelligent software powered by AI and modern backend technologies.
-Help businesses integrate AI into existing products and workflows.
-Develop AI systems using LLMs, RAG, AI Agents, and future AGI technologies.
-Create secure, scalable, and business-focused AI solutions.
-
-
-## 💻 Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| 🐍 Languages | Python • JavaScript |
-| ⚙️ Backend | Django • FastAPI • REST APIs |
-| 🎨 Frontend | HTML • CSS • Bootstrap • React.js |
-| 🗄️ Database | PostgreSQL • MySQL • SQLite • Firebase |
-| 🤖 AI/ML | NumPy • Pandas • Scikit-learn • TensorFlow • LLMs • RAG |
-| 🛠 Tools | Git • GitHub • Postman • VS Code |
-
-## 📂 Featured Projects
-
-- 🤖 AI Chatbot Platform (LLM + Google AI)
-- 📄 PDF AI Assistant (RAG)
-- 📝 Django Blog Management System
-- 🔐 Authentication REST API (JWT)
-- 📊 CRM Backend System
-- ⚡ FastAPI Boilerplate
 
 ## 🚀 Career Goal
 
