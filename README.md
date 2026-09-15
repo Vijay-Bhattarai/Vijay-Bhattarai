@@ -3,7 +3,10 @@
 
 ### 👨‍💻 Backend Engineer | Go (Golang) | Gin | PostgreSQL | AWS
 
+## 🌐 Socials:
+
 📫 Reach me at: **bijaybhattrarai5544@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Vijay Bhattarai](https://www.linkedin.com/in/vijay-bhattarai-815a841a5/?skipRedirect=true)) 
 
 
 # 💫 About Me:
@@ -43,5 +46,3 @@ I’m a Backend Engineer working with Go (Golang), building scalable, reliable, 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Vijay Bhattarai](https://www.linkedin.com/in/vijay-bhattarai-815a841a5/?skipRedirect=true)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bijaybhattrarai5544@gmail.com) 
