@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Bijay Bhattarai
 
-### 👨‍💻 Backend Engineer | Go (Golang) | Gin | PostgreSQL | AWS
+### 👨‍💻 Backend Engineer | Go (Golang) | Python | Django | Gin | PostgreSQL | AWS
 
 ## 🌐 Socials:
 
@@ -11,7 +11,13 @@
 
 # 💫 About Me:
 
-I’m a Backend Engineer working with Go (Golang), building scalable, reliable, and high-performance backend systems and cloud-based applications. My work mainly involves Golang, Gin, PostgreSQL, REST APIs, Docker, and AWS, with a focus on clean architecture, system performance, security, and writing maintainable, production-ready code. <br><br>I have a strong background in the technology industry, with experience across software development, digital marketing, CRM, and technology-driven business operations. Over the years, I’ve worked with technologies such as React, JavaScript, Node.js, Python, and Django, and have been involved in building web applications and working on different technology projects.<br><br>I’ve also worked as a Co-Founder, where I was involved in technology, business development, sales, client relationships, and the day-to-day operations of the business. This experience gave me a different perspective on technology not just how to build software, but also how technology can be turned into practical solutions for real businesses and users. I enjoy building things, solving technical problems, learning new technologies, and keeping up with the rapid development of AI and its impact on software engineering.<br><br>I enjoy building things, solving technical problems, learning new technologies, and keeping up with the rapid development of AI and its impact on software engineering. I’m always looking for better ways to build reliable systems, improve performance, and create software that solves real-world problems.<br>
+I'm a Backend Engineer with experience in backend and full-stack development, specializing in Go (Golang), Python, Django, Django REST Framework, and RESTful API development. I work on backend services, application logic, database management, and third-party API integrations, with a focus on building reliable, maintainable, and scalable applications.
+
+My technical experience includes Go, Gin, Python, Django, PostgreSQL, MongoDB, React.js, Docker, Git, and AWS. I also have experience with Node.js, JavaScript, frontend development, and building web applications.
+
+Alongside software development, I have professional experience in business operations, CRM management, digital marketing, sales, and business development. As a Co-Founder & Sales Manager, I was involved in business strategy, product development, client acquisition, team coordination, and business operations.
+
+I'm interested in backend architecture, distributed systems, cloud infrastructure, and Artificial Intelligence. I enjoy exploring new technologies, solving engineering problems, and building practical software products.
 
 
 ## 🛠️ Tech Stack
