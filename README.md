@@ -22,39 +22,15 @@ I'm interested in backend architecture, distributed systems, cloud infrastructur
 
 ## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-
-Area
-
-Technologies
-
-🐹 Backend Development
-
-Go, Gin, Python, Django, Django REST Framework
-
-🗄️ Databases
-
-PostgreSQL, MongoDB, MySQL
-
-☁️ Cloud & DevOps
-
-AWS, Docker, CI/CD
-
-🔌 API Development
-
-REST APIs, Third-Party API Integration
-
-🎨 Frontend Development
-
-React.js, JavaScript, Bootstrap
-
-🧰 Development Tools
-
-Git, GitHub, Postman, VS Code
-
-🏗️ Other Technologies
-
-Node.js, Figma
+| Category | Technologies |
+|---|---|
+| 🐹 Backend | Go (Golang), Gin, Python, Django, Django REST Framework |
+| 🗄️ Databases | PostgreSQL, MongoDB, MySQL |
+| 🔌 API Development | REST APIs, Third-Party API Integration |
+| ☁️ Cloud & DevOps | AWS, Docker, CI/CD |
+| 🎨 Frontend | React.js, JavaScript, Bootstrap |
+| 🧰 Tools | Git, GitHub, Postman, VS Code |
+| 🏗️ Other | Node.js, Figma |
 
 ### 💼 Previous Experience
 
